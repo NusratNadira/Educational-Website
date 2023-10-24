@@ -399,11 +399,6 @@ section{
   color: var(--primary-color);
 }
 
-.courses .box-container .box .content .stars span{
-  font-size: 1.4rem;
-  color: #777;
-  margin-left: .5rem;
-}
 
 .courses .box-container .box .content .icons{
   display: flex;
