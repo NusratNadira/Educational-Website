@@ -38,3 +38,6 @@ var swiper = new Swiper(".review-slider",{
     },
   },
 });
+console.log("Hi!From first js");
+document.write("Hi!From first js");
+alert("Hi!First js"); 
